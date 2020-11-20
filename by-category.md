@@ -13,6 +13,10 @@
 - [45 Jump II](https://leetcode.com/problems/jump-game-ii/)
   The O(N^2) solution is easy to come up with.
   The O(N) one takes some thought. It is similar to two pointers.
+- [4 Regular expression matching](https://leetcode.com/problems/regular-expression-matching/)
+  Reg matching with star and dot. Use memoization.
+- [32 Longest valid parentheses](????)
+- [44 Wildcard matching](????)
 - 1326
 - 1024
 - 139
@@ -26,3 +30,8 @@
 
 - [55 Jump game](https://leetcode.com/problems/jump-game/)
   O(N) scan of the array.
+- [5 Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  Start at index `i` and search to the left and right.
+
+## Recursion
+
