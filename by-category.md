@@ -15,7 +15,9 @@
   The O(N) one takes some thought. It is similar to two pointers.
 - [4 Regular expression matching](https://leetcode.com/problems/regular-expression-matching/)
   Reg matching with star and dot. Use memoization.
-- [32 Longest valid parentheses](????)
+- [32 Longest valid parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+  The first method is to use `longest[i]` to save the longest valid string 
+  ending at index `i`. The other method is to use stack.
 - [44 Wildcard matching](????)
 - 1326
 - 1024
@@ -35,3 +37,10 @@
 
 ## Recursion
 
+- [22 Generate parentheses](https://leetcode.com/problems/generate-parentheses/)
+  TODO
+
+## Stack
+
+- [20 Valid parentheses](https://leetcode.com/problems/valid-parentheses/)
+  Use stack.
