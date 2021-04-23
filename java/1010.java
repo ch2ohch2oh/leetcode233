@@ -1,7 +1,7 @@
 /**
  * id: 1010 pairs of songs with total durations divisible by 60
  * tags: array
- * date: 2020-04-22
+ * date: 2021-04-22
  * note: Can use an array as the hashmap
  */
 class Solution {
