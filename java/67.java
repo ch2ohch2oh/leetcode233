@@ -1,4 +1,5 @@
 /**
+ * id: 67 add binary numbers
  * tag: string
  * date: 2021-04-21
  */

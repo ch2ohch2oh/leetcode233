@@ -1,4 +1,9 @@
-// Java string 
+/**
+ * id: 14 longest common prefix
+ * tags: string
+ * date: 2020-04-22
+ * note:
+ */
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         if(strs.length == 0) {

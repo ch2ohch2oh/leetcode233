@@ -1,4 +1,9 @@
-// One pass using hashmap
+/**
+ * id: 1 two sum
+ * tags: hashmap
+ * date: 2020-04-21
+ * note: 
+ */
 import java.util.*;
 
 class Solution {

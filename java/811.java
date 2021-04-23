@@ -1,4 +1,8 @@
-// Hashmap
+/**
+ * id: 811 subdomain visits
+ * tags: hashmap
+ * date: 2021-04-22
+ */
 class Solution {
     public List<String> subdomainVisits(String[] cpdomains) {
         Map<String, Integer> countMap = new HashMap<>();

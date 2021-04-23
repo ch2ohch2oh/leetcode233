@@ -1,4 +1,8 @@
-// Use PriorityQueue<E> in java
+/**
+ * id: 973 k closets points to origin
+ * tags: heap
+ * date: 2021-04-21
+ */
 class Solution {
     public int[][] kClosest(int[][] points, int k) {
         PriorityQueue<int []> queue = new PriorityQueue<>(points.length, (a, b) -> a[2] - b[2]);

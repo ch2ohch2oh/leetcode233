@@ -1,4 +1,8 @@
-// DFS
+/**
+ * id: 200 number of islands
+ * tags: dfs
+ * date: 2021-04-21
+ */
 class Solution {
     public int numIslands(char[][] grid) {
         int num = 0;

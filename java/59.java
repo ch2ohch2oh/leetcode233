@@ -1,4 +1,8 @@
-// Fill a matrix in spiral order
+/**
+ * id: 59 generate spiral matrix
+ * tags: array
+ * date: 2021-04-21
+ */
 class Solution {
     public int[][] generateMatrix(int n) {
         int [][] res = new int[n][n];

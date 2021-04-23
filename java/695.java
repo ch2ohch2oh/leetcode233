@@ -1,4 +1,8 @@
-// Use dfs to find the largest connected area
+/**
+ * id: 695 max area of island
+ * tags: dfs
+ * date: 2021-04-22
+ */
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
         int maxArea = 0;
