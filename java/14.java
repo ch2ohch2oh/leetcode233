@@ -1,7 +1,7 @@
 /**
  * id: 14 longest common prefix
  * tags: string
- * date: 2020-04-22
+ * date: 2021-04-22
  * note:
  */
 class Solution {
